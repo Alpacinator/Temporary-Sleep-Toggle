@@ -12,6 +12,14 @@ When sleep is soft disabled (settings are set to 'Never') it will ask you if you
 In the future I will add the option for custom settings and a check for hibernation. It also doesn't touch the unplugged sleep settings.
 
 # How to use
+## The Executable
+I added an executable file that I made using this:
+
+https://github.com/MScholtes/PS2EXE/tree/master
+
+Just run it and you are good to go!
+
+
 ## As a Shortcut
 Save the script somewhere and create a new shortcut. When asked for the location of the item, enter this:
 
