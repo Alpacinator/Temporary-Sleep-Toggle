@@ -1,6 +1,8 @@
 # Temporary Sleep Toggle for Windows 11
 This powershell script allow you to temporary toggle sleep to off. It doesn't need to be run as administrator.
-It might work with Windows 10, I haven't tried it. It shouldn't mess up anything too bad, maybe it would read you initial sleep settings the wrong way. I based my code on an example for Windows 7.
+
+It might work with Windows 10, I haven't tried it. It shouldn't mess up anything too bad, maybe it would read the current sleep settings wrong. I based my code on an example for Windows 7.
+
 It assumes Hibernation is disabled and sleep is not. In the sense that it wasn't turned off the hard way.
 
 When sleep is soft disabled (settings are set to 'Never') it will ask you if you want to enable sleep, the default settings are:
