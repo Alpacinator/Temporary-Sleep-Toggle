@@ -14,6 +14,8 @@ In the future I will add the option for custom settings and a check for hibernat
 # How to use
 ## As a Shortcut
 Save the script somewhere and create a new shortcut. When asked for the location of the item, enter this:
+
 powershell.exe -WindowStyle Hidden -NoLogo -NoProfile -ExecutionPolicy Bypass -File "C:\path\to\toggle-sleep.ps1"
+
 
 Just press 'OK' to re-enable sleep.
